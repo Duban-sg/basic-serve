@@ -2,6 +2,9 @@
 Proyecto con el fin de crear un servidor sin ningun tipo de libreria, este servidor seria totalmente configurable para exponer el tipo de comunicacion que requiera.
 
 ## Features
+- init server
+- class to add services
+- class to add services recived files
 
 ## Installation
 
